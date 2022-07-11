@@ -13,7 +13,7 @@ The grind don't stop. For nobody!
   - Container With Most Water - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Two%20Pointers/4.%20Container%20With%20Most%20Water.py) | [Article](https://palashsharma891.medium.com/11-container-with-most-water-leetcode-python-be6fd8563386)
   - Trapping Rain Water - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Two%20Pointers/5.%20Trapping%20Rain%20Water.py) | [Article](https://palashsharma891.medium.com/42-trapping-rain-water-leetcode-python-a4a7e977af5b)
 
-##3. Sliding Window
+## 3. Sliding Window
   - Best Time to Buy and Sell Stock - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Sliding%20Window/1.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) | [Article](https://medium.com/@palashsharma891/121-best-time-to-buy-and-sell-stock-leetcode-python-22ea7946b5d0)
   - Longest Substring Without Repeating Characters - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Sliding%20Window/2.%20Longest%20Substring%20Without%20Repeating%20Characters.py) | [Article](https://medium.com/@palashsharma891/3-longest-substring-without-repeating-characters-leetcode-python-47b676f05f27)
   - Longest Repeating Character Replacement - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Sliding%20Window/3.%20Longest%20Repeating%20Character%20Replacement.py) | [Article](https://medium.com/@palashsharma891/424-longest-repeating-character-replacement-leetcode-python-906d6b0e357c)
