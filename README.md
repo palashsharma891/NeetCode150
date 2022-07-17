@@ -21,6 +21,9 @@ The grind don't stop. For nobody!
   - Minimum Window Substring - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Sliding%20Window/5.%20Minimum%20Window%20Substring.py) | [Article](https://medium.com/@palashsharma891/76-minimum-window-substring-leetcode-python-3a4a24bf642)
   - Sliding Window Maximum - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Sliding%20Window/6.%20Sliding%20Window%20Maximum.py) | [Article](https://palashsharma891.medium.com/239-sliding-window-maximum-leetcode-python-6e9659b8fd2c)
   
+## 4. Stack
+  - todo
+  
 ## 5. Binary Search
   - Binary Search - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Binary%20Search/1.%20Binary%20Search.py) | [Article](https://palashsharma891.medium.com/704-binary-search-leetcode-python-b2426c4710a)
   - Search a 2D Matrix - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Binary%20Search/2.%20Search%20A%202D%20Matrix.py) | [Article](https://palashsharma891.medium.com/74-search-a-2d-matrix-leetcode-python-a7230bbd34ab)
