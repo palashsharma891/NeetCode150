@@ -23,13 +23,13 @@ The grind don't stop. For nobody!
   - Sliding Window Maximum - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Sliding%20Window/6.%20Sliding%20Window%20Maximum.py) | [Article](https://palashsharma891.medium.com/239-sliding-window-maximum-leetcode-python-6e9659b8fd2c)
   
 ## 4. Stack
-  - Valid Parentheses - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Stack/1.%20Valid%20Parentheses.py) | todo
-  - Min Stack - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Stack/2.%20Min%20Stack.py) | todo
-  - Evaluate Reverse Polish Notation - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Stack/3.%20Evaluate%20Reverse%20Polish%20Notation.py) | todo
-  - Generate Parentheses - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Stack/4.%20Generate%20Parentheses.py) | todo
-  - Daily Temperatures - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Stack/5.%20Daily%20Temperatures.py) | todo
-  - Car Fleet - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Stack/6.%20Car%20Fleet.py) | todo
-  - Largest Rectangle in Histogram - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Stack/7.%20Largest%20Rectangle%20in%20Histogram.py) | todo
+  - Valid Parentheses - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Stack/1.%20Valid%20Parentheses.py) | [Article](https://palashsharma891.medium.com/20-valid-parentheses-leetcode-python-d2f7ba5c9427)
+  - Min Stack - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Stack/2.%20Min%20Stack.py) | [Article](https://palashsharma891.medium.com/155-min-stack-leetcode-python-b3ebc5476a64)
+  - Evaluate Reverse Polish Notation - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Stack/3.%20Evaluate%20Reverse%20Polish%20Notation.py) | [Article](https://palashsharma891.medium.com/150-evaluate-reverse-polish-notation-leetcode-python-ee056799f14d)
+  - Generate Parentheses - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Stack/4.%20Generate%20Parentheses.py) | [Article](https://palashsharma891.medium.com/22-generate-parentheses-leetcode-python-cde3f8194cec)
+  - Daily Temperatures - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Stack/5.%20Daily%20Temperatures.py) | [Article](https://palashsharma891.medium.com/739-daily-temperatures-leetcode-python-623b6873a532)
+  - Car Fleet - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Stack/6.%20Car%20Fleet.py) | [Article](https://palashsharma891.medium.com/853-car-fleet-leetcode-python-5867dbb6cd44)
+  - Largest Rectangle in Histogram - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Stack/7.%20Largest%20Rectangle%20in%20Histogram.py) | [Article](https://palashsharma891.medium.com/84-largest-rectangle-in-histogram-leetcode-python-536b6e490ddc)
   
 ## 5. Binary Search
   - Binary Search - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Binary%20Search/1.%20Binary%20Search.py) | [Article](https://palashsharma891.medium.com/704-binary-search-leetcode-python-b2426c4710a)
