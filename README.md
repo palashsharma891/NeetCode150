@@ -52,3 +52,14 @@ The grind don't stop. For nobody!
   - LRU Cache - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Linked%20List/9.%20LRU%20Cache.py) | [Article](https://palashsharma891.medium.com/146-lru-cache-leetcode-python-1f49ce822897)
   - Merge k Sorted Lists - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Linked%20List/10.%20Merge%20k%20Sorted%20Lists.py) | [Article](https://palashsharma891.medium.com/23-merge-k-sorted-lists-leetcode-python-6aee1858cd57)
   - Reverse Nodes in k-Group - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Linked%20List/11.%20Reverse%20Nodes%20in%20k-Group.py) | [Article](https://palashsharma891.medium.com/25-reverse-nodes-in-k-group-leetcode-python-83c364abbc9c)
+
+## 7. Trees
+
+### Extra Essential Problems
+  - Binary Tree Preorder Traversal - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Trees/1.%20Binary%20Tree%20Preorder%20Traversal.py) | [Article](https://palashsharma891.medium.com/144-binary-tree-preorder-traversal-leetcode-python-4ec90ae29b99)
+  - Binary Tree Inorder Traversal - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Trees/2.%20Binary%20Tree%20Inorder%20Traversal.py) | [Article](https://palashsharma891.medium.com/94-binary-tree-inorder-traversal-leetcode-python-43991df1e5)
+  - Binary Tree Postorder Traversal - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Trees/3.%20Binary%20Tree%20Postorder%20Traversal.py) | [Article](https://palashsharma891.medium.com/145-binary-tree-postorder-traversal-leetcode-python-4b095c9ffcd4)
+  - Binary Tree Level Order Traversal - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Trees/4.%20Binary%20Tree%20Level%20Order%20Traversal.py) | [Article](https://palashsharma891.medium.com/102-binary-tree-level-order-traversal-leetcode-python-600fdde8beba)
+  
+### NeetCode List
+  - Invert Binary Tree - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Trees/5.%20Invert%20Binary%20Tree.py) | [Article](https://palashsharma891.medium.com/226-invert-binary-tree-leetcode-python-216edc07fc19)
