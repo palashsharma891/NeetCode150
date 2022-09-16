@@ -1,5 +1,7 @@
 # neetcode.io-python
 The grind don't stop. For nobody!
+[daddy](https://leetcode.com/polopower/)
+[JUST DO IT!](https://leetcode.com/)
 
 ## 1. Arrays & Hashing
   - Contains Duplicate - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Arrays%20%26%20Hashing/1.%20Contains%20Duplicate.py) | [Article](https://palashsharma891.medium.com/217-contains-duplicate-leetcode-python-78ab3e0f7b5e)
