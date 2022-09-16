@@ -1,6 +1,8 @@
 # neetcode.io-python
 The grind don't stop. For nobody!
+
 [daddy](https://leetcode.com/polopower/)
+
 [JUST DO IT!](https://leetcode.com/)
 
 ## 1. Arrays & Hashing
