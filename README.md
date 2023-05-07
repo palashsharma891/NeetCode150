@@ -63,3 +63,4 @@ The grind don't stop. For nobody!
   
 ### NeetCode List
   - Invert Binary Tree - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Trees/5.%20Invert%20Binary%20Tree.py) | [Article](https://palashsharma891.medium.com/226-invert-binary-tree-leetcode-python-216edc07fc19)
+  - Maximum Depth of Binary Tree - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Trees/6.%20Maximum%20Depth%20of%20Binary%20Tree.py) | [Article](https://palashsharma891.medium.com/104-maximum-depth-of-binary-tree-leetcode-python-1dbcd6e592d)
