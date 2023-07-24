@@ -6,6 +6,7 @@ The grind don't stop. For nobody!
   - Valid Anagram - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Arrays%20%26%20Hashing/2.%20Valid%20Anagram.py) | [Article](https://palashsharma891.medium.com/242-valid-anagram-leetcode-python-64573f791c)
   - Two Sum - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Arrays%20%26%20Hashing/3.%20Two%20Sum.py) | [Article](https://palashsharma891.medium.com/1-two-sum-leetcode-python-918c46b4938d)
   - Group Anagrams - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Arrays%20%26%20Hashing/4.%20Group%20Anagrams.py) | [Article](https://palashsharma891.medium.com/49-group-anagrams-leetcode-python-cd66973b5d0b)
+  - Top K Frequent Elements - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Arrays%20%26%20Hashing/5.%20Top%20K%20Frequent%20Elements.py)
   - Longest Consecutive Sequence - [Code](https://github.com/palashsharma891/neetcode.io-python/blob/main/Arrays%20%26%20Hashing/5.%20Longest%20Consecutive%20Sequence.py)
   
 ## 2. Two Pointers
