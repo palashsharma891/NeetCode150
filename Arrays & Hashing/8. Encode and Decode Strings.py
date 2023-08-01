@@ -7,8 +7,8 @@ class Solution:
         # write your code here
         ans = ''
         for s in strs:
-            ans += str(len(s)) + ':;' + s
-        return ans
+            ans += s + ':;'
+        return ans[:-2]
 
     """
     @param: str: A string
@@ -17,24 +17,19 @@ class Solution:
     def decode(self, str):
         # write your code here
         # "lint:;code:;love:;you"
-        #lenghtstring "4:;lint4:;code4:;love3:;you"
+        #lenghtstring
         ans = []
         curr = ''
         i = 0
-        l = ''
         while i < len(str):
-            curr += str[i]
             if str[i:i+2] == ':;':
-                print(curr)
-                l = int(curr[:-1])
-                ans += [str[i+2:i+2+l]]
-                i += l + 1 # +1, not +2 because we are incrementing i during every iteration of the while loop
+                ans += [curr]
                 curr = ''
-                print(ans)
+                i += 2
+            curr += str[i]
             i += 1
 
-        return ans
-
+        return ans + [curr]
 # OR
 
 class Solution:
