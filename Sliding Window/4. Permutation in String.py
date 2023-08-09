@@ -1,3 +1,22 @@
+class Solution:
+    def checkInclusion(self, s1: str, s2: str) -> bool:
+        s1_count = Counter(s1)
+        l, r = 0, 0
+        curr_counter = Counter()
+
+        while r < len(s2):
+            if curr_counter == s1_count:
+                return True
+            while r - l + 1 > len(s1):
+                curr_counter[s2[l]] -= 1
+                l += 1
+            curr_counter[s2[r]] += 1
+            r += 1
+
+        return curr_counter == s1_count
+        
+# OR
+
 from itertools import permutations
 class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
